@@ -362,14 +362,19 @@
         <mxCell id="UmzDb7iB8CU6XhtiEPZI-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UmzDb7iB8CU6XhtiEPZI-101" target="UmzDb7iB8CU6XhtiEPZI-107">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="597" y="760" />
               <mxPoint x="600" y="760" />
-              <mxPoint x="590" y="760" />
-              <mxPoint x="590" y="755" />
+              <mxPoint x="600" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UmzDb7iB8CU6XhtiEPZI-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UmzDb7iB8CU6XhtiEPZI-101" target="UmzDb7iB8CU6XhtiEPZI-108">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="743" />
+              <mxPoint x="600" y="800" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UmzDb7iB8CU6XhtiEPZI-101" value="Teléfono" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="497" y="723" width="100" height="40" as="geometry" />
@@ -381,10 +386,10 @@
           <mxGeometry x="500" y="880" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UmzDb7iB8CU6XhtiEPZI-107" value="Telefono_1" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="735" width="100" height="40" as="geometry" />
+          <mxGeometry x="630" y="720" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UmzDb7iB8CU6XhtiEPZI-108" value="Telẃefono_2" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="788" width="100" height="40" as="geometry" />
+        <mxCell id="UmzDb7iB8CU6XhtiEPZI-108" value="Telefono_2" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="780" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
