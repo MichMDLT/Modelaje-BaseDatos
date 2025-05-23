@@ -452,7 +452,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Modelo-logico" id="NDzO_sojiQVGrDkLzmjj">
-    <mxGraphModel dx="1083" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1593" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="nhPFRIAXJpm15RS1B5u9-0" />
         <mxCell id="nhPFRIAXJpm15RS1B5u9-1" parent="nhPFRIAXJpm15RS1B5u9-0" />
@@ -1057,6 +1057,9 @@
         </mxCell>
         <mxCell id="gsd8cCE84jhmPbNuGdFY-59" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nhPFRIAXJpm15RS1B5u9-1">
           <mxGeometry x="640" y="886" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gsd8cCE84jhmPbNuGdFY-60" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;DIAGRAMA ENTIDAD RELACIÓN DER&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;esto también es el Modelo Lógico&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nhPFRIAXJpm15RS1B5u9-1">
+          <mxGeometry x="90" y="40" width="660" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
