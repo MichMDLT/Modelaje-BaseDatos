@@ -452,7 +452,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Modelo-logico" id="NDzO_sojiQVGrDkLzmjj">
-    <mxGraphModel dx="2305" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1083" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="nhPFRIAXJpm15RS1B5u9-0" />
         <mxCell id="nhPFRIAXJpm15RS1B5u9-1" parent="nhPFRIAXJpm15RS1B5u9-0" />
